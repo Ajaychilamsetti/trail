@@ -9,16 +9,15 @@ a{
     margin-left: 15px;
     width: 98%;
     height: 700px;
-    margin-top: 30px;
+    margin-top: 20px;
     background: linear-gradient(to bottom right ,rgb(130, 14, 130), #ee9ae5);
     border-bottom-right-radius: 300px;
     border-top-left-radius: 60px;
 }
 .back1{
-    display:absolute ;
     margin-left: 15px;
     width: 93%;
-    height: 680px;
+    height: 97vh;
     margin-top: 15px;
     background: linear-gradient(to bottom right ,rgb(130, 14, 130), #ee9ae5);
     border-bottom-right-radius: 200px;
